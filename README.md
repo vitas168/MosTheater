@@ -1,0 +1,2 @@
+# MosTheater
+This is a demo app showing theatres in Moscow. It uses Firebase for storing theater data. It also has a local cache manager. The app provides mapping capabilities to display theater locations on the Moscow map. In addition, it determines what e-map applications are installed on the device (e.g. Google Maps, Yandex etc) and offer the user choices for selecting the app and charting the route to the selected theater - by car, public, taxi or foot.
